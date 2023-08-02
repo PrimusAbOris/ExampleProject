@@ -2,6 +2,14 @@ package com.coderscampus.domain;
 
 import java.time.LocalDate;
 
+/**
+ * I am using NOTEPAD for notes, Trevor.
+ * 
+ * When a monkey commits to main by accident,
+ * does the tiger fire the monkey?
+ * Does he transfer the monkey to another branch?
+ */
+
 class Profile {
 	private Integer id;
 	private String profileName;
